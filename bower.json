@@ -1,0 +1,13 @@
+{
+	"name": "spring-live-updates",
+	"version": "0.0.1-SNAPSHOT",
+	"dependencies": {
+		"angular": "latest",
+		"angular-resource": "latest",
+		"jquery": "latest",
+		"semantic-ui": "latest",
+		"sockjs": "latest",
+		"stomp-websocket": "latest",
+		"showdown": "latest"
+	}
+}

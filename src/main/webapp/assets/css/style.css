@@ -1,0 +1,12 @@
+.ui.list .item .red.description {
+	color: #A95252;
+}
+
+.ui.form textarea {
+	min-height: 0;
+	height: auto;
+}
+
+.ui.list .item .content .description p {
+	margin: 0;
+}
