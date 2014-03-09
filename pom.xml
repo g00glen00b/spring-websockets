@@ -5,8 +5,8 @@
 	<artifactId>spring-live-updates</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-live-updates Maven Webapp</name>
-	<url>http://maven.apache.org</url>
+	<name>Spring WebSockets app</name>
+	<url>http://g00glen00b.be/spring-websockets</url>
 
 	<properties>
 		<spring.version>4.0.2.RELEASE</spring.version>
@@ -119,4 +119,5 @@
 			<version>1.2</version>
 		</dependency>
 	</dependencies>
+	<description>This application demonstrates how you can write real time applications using Spring 4 and AngularJS.</description>
 </project>
