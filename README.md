@@ -1,5 +1,5 @@
 # Building real time applications using Spring, AngularJS and WebSockets
-This application demonstrates how you can write real time applications using Spring 4 and AngularJS.
+This application demonstrates how you can write real time applications using Spring 4 and AngularJS. The tutorial to build this application can be found at [http://g00glen00b.be/spring-websockets](http://g00glen00b.be/spring-websockets).
 
 ## Installation
 You need a JSR-356 compliant web container (like Tomcat 8) and at least Java 7. For building the application you need [Maven](http://maven.apache.org) and [Bower](http://bower.io). For Bower you also have to install Node.js (and NPM).
